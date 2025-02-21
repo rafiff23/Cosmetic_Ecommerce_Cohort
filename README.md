@@ -1,5 +1,7 @@
 **Dataset**: The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop/data), featuring e-commerce event history in a cosmetics shop.
+
 **Dashbord**: [Dashboard]([https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop/data](https://lookerstudio.google.com/reporting/743c1770-137b-4a0e-a693-aa61457e767b))
+
 **Presentation**: [Presentation]([https://www.canva.com/design/DAGfrU-2zZg/W62PP9BahbbsQKKTcFxmNw/edit?utm_content=DAGfrU-2zZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
 
 # **Enhancing Customer Retention in the Cosmetics E-Commerce Industry**
